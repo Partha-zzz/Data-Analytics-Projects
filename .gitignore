@@ -1,0 +1,5 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Project documentation / large files not intended for version control
+DATA ANALYTICS p1.pdf
