@@ -7,6 +7,9 @@ __pycache__/
 *.sqlite
 *.sqlite3
 
+# PDF instructions
+*.pdf
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
