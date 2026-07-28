@@ -1,0 +1,10 @@
+# Python & Jupyter cache
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Exclude instruction PDF
+*.pdf
+Data analytics P2.pdf
