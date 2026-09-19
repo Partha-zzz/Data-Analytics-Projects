@@ -1,10 +1,5 @@
 # Data Cleaning & Preparation using Python (Pandas)
 
-## Project Overview
-This project focuses on the cleaning and preprocessing of a raw retail-like transactional Excel dataset. It was completed as part of the **Week 1 task for the DecodeLabs Data Analytics Internship**. The primary objective was to transform raw, messy data into a clean, structured, and reliable format suitable for downstream analysis or visualization, using Python and the Pandas library.
-
----
-
 ## Problem Statement
 In real-world scenarios, raw datasets are rarely clean. They often contain missing values, duplicate records, inconsistent date formats, and other anomalies. Conducting analytics or building models on dirty data leads to inaccurate insights and faulty decision-making. 
 
@@ -41,18 +36,6 @@ Week 1/
 ├── data_cleaning.ipynb             # Jupyter Notebook containing the cleaning logic
 ├── README.md                       # Project documentation
 └── .gitignore                      # Git configuration to exclude temporary/unwanted files
-```
-
-### Version Control & Excluded Files
-To keep the repository lightweight and professional, some files are excluded from version control via `.gitignore`. 
-
-Below is the `.gitignore` configuration used to exclude large document files and temporary notebook checkpoints:
-```text
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Project documentation / large files not intended for version control
-DATA ANALYTICS p1.pdf
 ```
 
 ---
