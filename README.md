@@ -12,6 +12,7 @@ Each project focuses on a different stage of the data analytics workflow, progre
 | **Project 2** | Exploratory Data Analysis (EDA) | Python, Pandas, Matplotlib, Seaborn |
 | **Project 3** | SQL Data Analysis | Python, SQLite, Pandas, SQL |
 | **Project 4** | Pharmaceutical Sales Data Analysis | Python, Pandas, Matplotlib |
+| **Project 5** | Netflix Dataset Cleaning | Python, Pandas, Regex |
 
 ---
 
@@ -113,6 +114,32 @@ A beginner data analysis project using daily pharmaceutical sales data to identi
 
 ---
 
+## Project 5 — Netflix Dataset Cleaning
+
+A practical data-cleaning project using the Netflix Movies and TV Shows dataset from Kaggle.
+
+The project focuses on understanding and cleaning real-world messy data rather than simply removing rows containing missing values.
+
+### What was covered
+
+- Dataset inspection using `.head()`, `.info()`, and `.describe()`
+- Missing-value analysis and handling
+- Duplicate detection and removal
+- Cleaning mixed-type columns
+- Extracting numerical values and units from the `duration` column
+- Converting `date_added` into a proper datetime format
+- Final data validation
+- Exporting the cleaned dataset to CSV
+
+### Main Tools
+
+- Python
+- Pandas
+- Regular Expressions (Regex)
+- Jupyter Notebook
+
+[View Project 5](./Project%205)
+
 ## Skills Practiced
 
 Across these projects, I am building practical experience in:
@@ -136,6 +163,7 @@ Python
 ├── Matplotlib
 ├── Seaborn
 ├── OpenPyXL
+├── Regular Expressions (Regex)
 └── SQLite / SQL
 
 Jupyter Notebook
