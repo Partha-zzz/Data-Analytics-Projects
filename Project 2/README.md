@@ -1,8 +1,4 @@
-# Week 2 - Exploratory Data Analysis (EDA)
-
-This project is part of my Week 2 Data Analytics internship at DecodeLabs. 
-
-In this project, I performed Exploratory Data Analysis (EDA) on an e-commerce dataset using Python and Pandas.
+# Exploratory Data Analysis (EDA)
 
 ## Objective
 - Calculate basic statistics (mean, median, count, etc.)
