@@ -1,8 +1,5 @@
 # Project 3: SQL Data Analysis
 
-## Project Overview
-This repository contains my submission for **Project 3: SQL Data Analysis** as part of the DecodeLabs Data Analytics Internship. In this project, I used Python, Pandas, and SQLite to convert an e-commerce Excel dataset into a relational database and performed basic SQL data analysis.
-
 ## Problem Statement
 Spreadsheets can become slow and hard to query as datasets grow. Organizations need structured relational databases to quickly search, filter, and summarize transaction records. This project demonstrates how to query transactional order data using SQL to uncover basic business insights.
 
